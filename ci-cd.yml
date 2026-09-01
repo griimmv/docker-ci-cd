@@ -9,7 +9,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: your/github/project/url # change this to your github project url
+  IMAGE_NAME: your/github/project/path # change this to your project path in github (e.g. griimmv/docker-ci-cd)
 
 jobs:
   ci:
