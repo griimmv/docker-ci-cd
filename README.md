@@ -6,5 +6,5 @@ then you need to setup GHCR (search google im too lazy to explain it)
 
 now you build your project
 
-then you can git tag (e.g. git tag v1.0.0) your latest commit and simply push your project with tag to Github
+then you can do git tag (e.g. git tag v1.0.0) your latest commit and simply push your project with tag to Github (e.g. gti push v1.0.0)
 the workflow should be done on github action
